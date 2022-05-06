@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 8ba6570ee5c68e747a5a06348163bd69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2035776182091584542
+    second: MCIdleSpritesPrototype_0
+  - first:
+      213: -975731115016800314
+    second: MCIdleSpritesPrototype_1
+  - first:
+      213: 2850720857295187854
+    second: MCIdleSpritesPrototype_2
+  - first:
+      213: 6126449842091083396
+    second: MCIdleSpritesPrototype_3
+  - first:
+      213: 4977311143832743711
+    second: MCIdleSpritesPrototype_4
+  - first:
+      213: 1040541855357188334
+    second: MCIdleSpritesPrototype_5
+  - first:
+      213: 4301794984721293194
+    second: MCIdleSpritesPrototype_6
+  - first:
+      213: 6775402185987312192
+    second: MCIdleSpritesPrototype_7
+  - first:
+      213: 7530134545151005601
+    second: MCIdleSpritesPrototype_8
+  - first:
+      213: -1932307035490865073
+    second: MCIdleSpritesPrototype_9
+  - first:
+      213: -2827102892337448825
+    second: MCIdleSpritesPrototype_10
+  - first:
+      213: -5144495136039182416
+    second: MCIdleSpritesPrototype_11
+  - first:
+      213: 1709424312795247727
+    second: MCIdleSpritesPrototype_12
+  - first:
+      213: 4077454977272944587
+    second: MCIdleSpritesPrototype_13
+  - first:
+      213: 6002682505897486648
+    second: MCIdleSpritesPrototype_14
+  - first:
+      213: -5908105201989458529
+    second: MCIdleSpritesPrototype_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 74
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_0
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 325
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebea3039587fb3e0800000000000000
+      internalID: -2035776182091584542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_1
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 711
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7b02578b18572f0800000000000000
+      internalID: -975731115016800314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_2
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 0
+        width: 325
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f60e4148bcf8720800000000000000
+      internalID: 2850720857295187854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_3
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 0
+        width: 325
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486461c0ca5850550800000000000000
+      internalID: 6126449842091083396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_4
+      rect:
+        serializedVersion: 2
+        x: 4819
+        y: 712
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6eb84d16f21540800000000000000
+      internalID: 4977311143832743711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_5
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 712
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8bd7eed4fb07e00800000000000000
+      internalID: 1040541855357188334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_6
+      rect:
+        serializedVersion: 2
+        x: 6843
+        y: 0
+        width: 325
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f9ed82fbb03bb30800000000000000
+      internalID: 4301794984721293194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_7
+      rect:
+        serializedVersion: 2
+        x: 8059
+        y: 712
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04acd2af360170e50800000000000000
+      internalID: 6775402185987312192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_8
+      rect:
+        serializedVersion: 2
+        x: 9003
+        y: 0
+        width: 325
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a39f92f879608860800000000000000
+      internalID: 7530134545151005601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_9
+      rect:
+        serializedVersion: 2
+        x: 9139
+        y: 712
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4034903df01f25e0800000000000000
+      internalID: -1932307035490865073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_10
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 0
+        width: 323
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7883fb6e5ec14c8d0800000000000000
+      internalID: -2827102892337448825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_11
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 695
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd8a33ee41b98b0800000000000000
+      internalID: -5144495136039182416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_12
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 0
+        width: 325
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64b3960b5819b710800000000000000
+      internalID: 1709424312795247727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_13
+      rect:
+        serializedVersion: 2
+        x: 5959
+        y: 683
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79004d2b7069830800000000000000
+      internalID: 4077454977272944587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_14
+      rect:
+        serializedVersion: 2
+        x: 7923
+        y: 0
+        width: 325
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839a87f7fefcd4350800000000000000
+      internalID: 6002682505897486648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCIdleSpritesPrototype_15
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 331
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e7cb0f91320ea0800000000000000
+      internalID: -5908105201989458529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0aaa7a6891dc342889e995852a8112a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - detectInteract: {instanceID: 0}
+  - objectHolder: {instanceID: 0}
+  - doorDetect: {instanceID: 0}
+  - doorOpen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

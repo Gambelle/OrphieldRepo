@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - button
+  - Loss
+  - Gain
+  - ClimbableObj
+  - TutorialText
+  - MainPlayer
+  - interactableObject
+  - DeathZone
+  - Protection
+  - door
+  - SafeZone
+  - switchL
+  - switchR
+  - UnsafeZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Cardboard Box
+  - 
+  - 
+  - Distortion
+  - 
+  - 
+  - 
+  - 
+  - N_Background
+  - N_Colliders
+  - N_UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DistortionLayer
+    uniqueID: 4195461327
+    locked: 0
